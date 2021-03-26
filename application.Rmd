@@ -1,0 +1,89 @@
+---
+title: "Step 3: Application Process"
+---
+
+The application process is a component that we put a lot of time and thought into as we wanted to be very intentional in creating a process that was inclusive. Our general goal was to recruit a diverse cohort of 6-10 applicants from library schools across the country who are less than halfway through their program. 
+
+- It was important for us to recruit a diverse cohort that represented a broad variety of backgrounds and experiences. Librarianship as a profession is made up of mostly white women. Tech positions also tend to be occupied by mostly white folks while also skewing more male. We wanted to acknowledge this specific piece of LIS pipeline so that we could make sure that our application process was welcoming on the basis of gender and race and also in terms of other demographics, such as ability, academic background, and geography. 
+- In terms of the cohort size, we sought 6-10 applicants because we felt a smaller number of participants would allow us to provide more individualized attention. When we were originally planning to host this as an in-person event, a small cohort size also meant manageable costs as well.  
+- We sought students who were less than halfway through their program because we reasoned that the earlier we were to reach students in their academic trajectories, the better chance they would have at applying what they learned with us to the rest of their graduate school and early career planning. 
+
+## Creating an inclusive recruitment and application process ##
+Our strategy for creating an inclusive application process involved: (1) presenting clear messaging in terms of our values as an organization and the qualities sought in applicants, and (2) the removal of common barriers encountered in such processes. 
+
+### 1. Clear messaging: ###
+
+When participants arrived at our application page on the program website, the first thing that they encountered was the guiding principles and values statement for the program, which in turn directed them to our Libraries’ strategic values and our diversity & Inclusion statement. 
+
+Additionally, application questions pertaining to diversity were supplied with explanatory help text. When prompted for optional demographic information, for example, the following note appeared: 
+
+> “We're looking for opportunities to support applicants from groups that are unrepresented in librarianship. We are taking the entire application into account; no one will be accepted/denied based solely on their response to this question.” 
+
+And the prompt of “Please describe your commitment to diversity, equity, and inclusion.” was coupled with this context: 
+
+> “We would like to know how you would contribute to fostering a learning environment that prioritizes diversity, equity, and inclusion. This can include specific things you have done or plan to do to further your knowledge. For more information about writing a diversity commitment statement, we recommend The Effective Diversity Statement (it is aimed at faculty members, but the suggestions are generalizable).”
+
+In recognition of the fact that people from underrepresented groups are much less likely to apply for a job or program unless they feel like they meet or exceed every qualification listed, we also included this statement in an effort to make it clear that we were not looking for any particular set of experiences or skills so much as enthusiasm about library technology and the potential for growth: 
+
+>“You don’t necessarily have to have any technical expertise to be accepted to the program! We are looking for highly motivated candidates with:
+>
+> - a demonstrated interest in pursuing a career in library technology
+> - a commitment and willingness to learn technical skills
+> - a persistent and creative approach to solving problems”
+
+### 2. Removing barriers ### 
+
+There are many common elements of application processes that can prove to be unnecessary burdens, particularly for programs such as this one that don’t hold the same weight as, say, a job application. Given this, we chose to forgo certain things, namely cover letters and references/letters of recommendation. Additionally, we tried to keep our short answer questions truly short, at 150 words each. When it came time to conduct our phone screenings of the finalists, we were as transparent as possible by letting participants know the details of what to expect including who would be on the call, how long it would take, and exactly what questions we would be asking. 
+
+It is also worth noting that when we were still planning to host this program in person, our ability to provide an all-expenses paid experience would have helped to promote inclusivity as well by making this experience more accessible to low-income individuals. 
+
+<br> 
+
+Taken together, we believe that these strategies were helpful in recruiting the diverse cohort of participants we ended up working with. Clearly communicating our values as an organization and a program as well as what we expected of applicants in addition to removing barriers typically built-in to the process hopefully encouraged folks who may not have applied to a program like this otherwise to do so. Moving forward, however, we acknowledge that there are additional steps we could take to further our efforts in this area and welcome constructive feedback. 
+
+## Marketing and outreach ##
+
+In devising our marketing and outreach approach, we relied on…
+
+- **Email blasts** We emailed information about this opportunity to LIS diversity, equity, and inclusion programs and group listservs, LIS program coordinators, and our direct contacts at various institutions where appropriate. We sent an initial outreach email when the applications were officially open and a reminder email as we approached the deadline. 
+- **In-person visits.** We were able to give in-person recruitment presentations about this program at several of the LIS programs in our area. Additionally, we were able to ask our colleagues to tack a brief spiel about this on to other recruitment efforts, such as our ongoing recruitment for the NC State University Libraries Fellows Program. 
+- **Informational webinars.** To get at a broader audience than what we were able to reach locally, we also conducted live webinars that were open to the public. We promoted these webinars on our website, the Libraries social media, as well as in the email communications listed above. 
+
+We were able to establish a very broad reach with this approach as evidenced by our final applicant pool of 49 individuals representing almost a dozen schools across the U.S. and Canada. 
+
+## Application package##
+
+A complete application package consisted of a resumé and the [online application form](https://docs.google.com/document/d/1GJ6n6H9sfSY4GrNVDuLmQ7ov7-RUXEd5abRMA5P2goI/edit?usp=sharing). 
+
+The online application form confirmed eligibility, collected demographic information, and solicited responses to the following short answer questions: 
+
+- Why are you interested in the Jumpstart program? What do you hope to gain from this experience? (150 words max)
+  + Help text: <i>We’d love to hear about any experiences that you’ve had or any projects you’ve worked on that might help us to understand what inspired you to apply to this program.</i> 
+- Tell us about a time when you solved a challenging problem. (150 words max)
+  + Help text: <i>Your example does not have to be library or technology related!</i>
+- What are your professional goals? What would your ideal job entail? (150 words max)
+- Please describe your commitment to diversity, equity, and inclusion. (150 words max)
+  + Help text: <i>We would like to know how you would contribute to fostering a learning environment that prioritizes diversity, equity, and inclusion. This can include specific things you have done or plan to do to further your knowledge. For more information about writing a diversity commitment statement, we recommend [The Effective Diversity Statement](https://www.insidehighered.com/advice/2016/06/10/how-write-effective-diversity-statement-essay) (it is aimed at faculty members, but the suggestions are generalizable).”</i>
+  
+## Evaluation and selection ##
+
+In evaluating applications, the following criteria determined the elements we were looking for in participants’ responses to the short answer questions. 
+
+- For the first question, **“Why are you interested in the Jumpstart Program? What do you hope to gain from this experience?”**, we wanted to see an expressed interest in and enthusiasm for library technology and building up their technical skillset. We were also screening answers to this question to ensure that we were recruiting participants who were at the appropriate skill level for the program, which ranged from absolute beginner to somewhat knowledgeable or experienced in technology concepts. 
+- With, **“Tell us about a time when you solved a challenging problem.”**, we were looking for examples of critical thinking, creativity, curiosity, and teamwork from any setting -- not even necessarily related to library technology. 
+- In asking, **“What are your professional goals? What would your ideal job entail?”**, we wanted to see that the Jumpstart Program aligned with their future career goals, and that those career goals were based in library technology. While someone interested in becoming a library administrator, or a children’s librarian, for example, might indeed benefit from increasing their technical skillset, they were not the primary audience we had in mind for the first iteration of the program. 
+- To evaluate folks' responses to, **“Please tell us about your commitment to diversity, equity, and inclusion.”**, we started from a point of acknowledging that everyone is at a different point in their journey with these efforts, and so people were not necessarily ruled out or brought in based on their response to this question alone. We were looking for a thoughtful, sincere response that indicated some level of engagement with DEI work.
+
+As a planning committee, we each individually rated participants on a scale of 1 to 3 (roughly, ‘yes’, ‘maybe’, and ‘no’) and then met as a whole group to come to a consensus on our collective pool of yes candidates, making an effort to consider the diversity of the cohort as a whole in making our decisions. After we had our list of finalists, we scheduled short Zoom screening calls with each of them to narrow our pool to our selected cohort. The purpose of the Zoom calls was to corroborate what participants had put forth in their applications as well as to get to know them better in terms of their professional interests and goals so that we could eventually prepare them with an appropriate mentor. The questions we asked in the zoom screening calls included: 
+
+- Tell us more about what brought you to your graduate program. What sparked your interest in library or information science?
+- How did you find out about the program? What do you hope to gain from the experience? (We know this was part of the application material, but we wanted to give you the opportunity to tell us more). 
+- What’s a technology that you find exciting right now? (It doesn’t have to be related to libraries!) 
+- What are your professional goals? In what ways do they involve library technology?
+- Do you have any questions for us?
+
+All in all, the application process took 6 months. We opened the applications up in late November, kept them open through March, and evaluated them and conducted the phone screenings through April, with final decisions going out in early May. We did our best to keep applicants regularly updated on our progress along the way.  
+
+> Tip: In order to recruit a diverse cohort of applicants it is important to clearly define your values and to communicate those values in your marketing materials while also actively working to remove barriers to the application process itself. Additionally, it’s important to stay open to feedback and to be constantly vigilant with regards to new best practices in acknowledgement of the fact that there is always more that can be done in improving inclusivity and equity in application and selection processes. 
+
+

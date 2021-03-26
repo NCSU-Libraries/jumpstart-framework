@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Step 7: Assessment</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fas fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="about.html">About this Guide</a>
+</li>
+<li>
+  <a href="timeline.html">
+    <span class="fas fa-gear"></span>
+     
+    Process Overview
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fas fa-gear"></span>
+     
+    Step-by-Step
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="environmental_scan.html">Step 1: Environmental Scan</a>
+    </li>
+    <li>
+      <a href="planning_committee_vision.html">Step 2: Forming a Planning Committee &amp; Honing a Vision</a>
+    </li>
+    <li>
+      <a href="application.html">Step 3: Application Process</a>
+    </li>
+    <li>
+      <a href="schedule_content.html">Step 4: Developing the program schedule and content</a>
+    </li>
+    <li>
+      <a href="leadup.html">Step 5: Program Lead-up</a>
+    </li>
+    <li>
+      <a href="delivery.html">Step 6: Program Delivery</a>
+    </li>
+    <li>
+      <a href="assessment.html">Step 7: Assessment</a>
+    </li>
+    <li>
+      <a href="resources.html">Further Reading/Suggested Resources</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Step 7: Assessment</h1>
+
+</div>
+
+
+<p>Our assessment measures included a pre-program knowledge &amp; attitudes survey, a post-program knowledge &amp; attitudes survey, a post-program general feedback survey and a six month follow up video interview.</p>
+<div id="determining-goals-and-desired-outcomes" class="section level2">
+<h2>Determining goals and desired outcomes</h2>
+<p>Before designing our surveys, we spent some time reviewing our program’s guiding principles and objectives. What did we want participants to walk away with? What learning outcomes were we aiming to achieve?</p>
+<div id="building-appropriate-tools" class="section level3">
+<h3>Building appropriate tools</h3>
+<p>Based on this review, we generated the following survey questions:</p>
+<div id="pre-program-knowledge-attitudes-survey" class="section level4">
+<h4>Pre-Program Knowledge &amp; Attitudes Survey</h4>
+<ul>
+<li>Please list the job titles you associate with librarianship:</li>
+<li>Please list the job titles you associate with technical librarianship:</li>
+</ul>
+<p><i> The following questions were presented with the option to answer on a 5 point Likert scale ranging from “strongly disagree” to “strongly agree”: </i></p>
+<ul>
+<li><p>I know what technical skills I need to learn to be successful as a librarian.</p></li>
+<li><p>I’m not sure how to learn the technical skills that I need.</p></li>
+<li><p>I am confident in my ability to learn technical skills.</p></li>
+<li><p>I feel intimidated at the thought of learning technical skills.</p></li>
+<li><p>I am aware of my options for careers in library technology.</p></li>
+<li><p>I am likely to pursue a career in library technology</p></li>
+<li><p>I think of myself as the type of person who would do well in library technology.</p></li>
+<li><p>I have people in my personal and/or professional life who have encouraged me to build a technical skill set.</p></li>
+<li><p>I know someone working in library technology who I would feel comfortable turning to when I have questions.</p></li>
+<li><p>I’m not sure how to best present myself in a resume, cover letter, or interview for technical positions in libraries.</p></li>
+<li><p>Please list/describe any coursework, projects, and jobs/internships you have completed that are relevant to developing technical skills in librarianship:</p></li>
+</ul>
+</div>
+<div id="post-program-knowledge-attitudes-survey" class="section level4">
+<h4>Post-Program Knowledge &amp; Attitudes Survey</h4>
+<ul>
+<li>Please list the job titles you associate with librarianship:</li>
+<li>Please list the job titles you associate with technical librarianship:</li>
+<li>How much of the material covered in the Jumpstart Program was new for you? <i>(response options = “none of it was new”, “some of it was new”, “about half of it was new”, “most of it was new”, “all of it was new”).</i></li>
+</ul>
+<p><i> The following questions were presented with the option to answer on a 5 point Likert scale ranging from “strongly disagree” to “strongly agree”: </i></p>
+<ul>
+<li><p>I learned a lot about technical careers in libraries.</p></li>
+<li><p>I learned a lot about the technical skills I will need to be successful as a librarian.</p></li>
+<li><p>The Jumpstart Program felt like a valuable use of my time.</p></li>
+<li><p>I plan to keep in contact with my mentor and others that I met while in the program.</p></li>
+<li><p>I know what technical skills I need to learn to be successful as a librarian.</p></li>
+<li><p>I’m not sure how to learn the technical skills that I need.</p></li>
+<li><p>I am confident in my ability to learn technical skills.</p></li>
+<li><p>I feel intimidated at the thought of learning technical skills.</p></li>
+<li><p>I am aware of my options for careers in library technology.</p></li>
+<li><p>I am likely to pursue a career in library technology</p></li>
+<li><p>I think of myself as the type of person who would do well in library technology.</p></li>
+<li><p>I have people in my personal and/or professional life who have encouraged me to build a technical skill set.</p></li>
+<li><p>I know someone working in library technology who I would feel comfortable turning to when I have questions.</p></li>
+<li><p>I’m not sure how to best present myself in a resume, cover letter, or interview for technical positions in libraries.</p></li>
+<li><p>Please list/describe any coursework, projects, and jobs/internships you plan to take that are relevant to developing technical skills in librarianship:</p></li>
+</ul>
+</div>
+<div id="post-program-satisfaction-survey" class="section level4">
+<h4>Post-Program Satisfaction Survey</h4>
+<ul>
+<li>Overall, how satisfied were you with your experience with the Jumpstart Program? <i> (response options = 5 point Likert scale ranging from “very dissatisfied” to “very satisfied”). </i></li>
+</ul>
+<p>Please rate the following components of the program: <i> (response options = 5 point Likert scale ranging from “very unsatisfactory” to “very satisfactory”).</i></p>
+<ul>
+<li><p>Technical skills workshops (Intro to Git &amp; GitHub, Intro to Python with Twitter Bots, Intro to Web Development, Intro to Machine Learning)</p></li>
+<li><p>Panel presentations (career path panel, day-in-the-life panel, tech showcase, Q&amp;A with Libraries admin)</p></li>
+<li><p>“Applying to Your First Library Tech Job” session</p></li>
+<li><p>One-on-one mentorship</p></li>
+<li><p>Program content overall:</p></li>
+<li><p>Do you have any additional comments concerning the content of the Jumpstart Program?</p></li>
+</ul>
+<p>Please rate the following logistical components of the program: <i> (response options = 5 point Likert scale ranging from “very unsatisfactory” to “very satisfactory”).</i></p>
+<ul>
+<li><p>Communication leading up to the event</p></li>
+<li><p>Live captioning services</p></li>
+<li><p>Attention paid to accessibility concerns</p></li>
+<li><p>Handling of troubleshooting during technical workshops</p></li>
+<li><p>The flow and schedule of events</p></li>
+<li><p>The application process</p></li>
+<li><p>Do you have any additional comments concerning the logistics of the Jumpstart Program?</p></li>
+<li><p>What was your favorite part of the Jumpstart program experience?</p></li>
+<li><p>What was your least favorite part of the Jumpstart program experience?</p></li>
+<li><p>Overall, did the Jumpstart program meet your expectations? Explain.</p></li>
+<li><p>Do you have any suggestions for improvement to the Jumpstart program?</p></li>
+<li><p>I am likely to recommend the Jumpstart Program to other library school students. <i> (response options = 5 point Likert scale ranging from “very unlikely” to “very likely”).</i></p></li>
+</ul>
+</div>
+<div id="post-program-six-month-follow-up-video-interview" class="section level4">
+<h4>Post-Program Six Month Follow-up Video Interview</h4>
+<ul>
+<li>Did your participation in the Jumpstart Program help inform your planning for the rest of your graduate school experience?
+<ul>
+<li>Did it influence the types of courses, jobs, and internships you took up? <em>What technical coursework have you taken/do you plan to take? </em>What sorts of part time jobs and/or internships have you had/do you plan to have?</li>
+</ul></li>
+<li>Have your short and/or long-term career goals shifted since you started your graduate school program to now? If yes, how so?
+<ul>
+<li>What role, if any, do you think the Jumpstart program had in any shifts?</li>
+</ul></li>
+<li>What kinds of jobs do you plan to apply to after you graduate?
+<ul>
+<li>What sorts of job titles are you looking at?</li>
+<li>Are you interested in applying to the NC State University Libraries Fellowship Program?</li>
+</ul></li>
+<li>How have you progressed in your acquisition of technical skills?
+<ul>
+<li>What skills have/are you trying to develop?</li>
+<li>What is going well?</li>
+<li>Are you experiencing roadblocks? What are they?</li>
+<li>What resources are you using?</li>
+</ul></li>
+<li>Have you kept in contact with other attendees?</li>
+<li>Have you kept in contact with your mentor?</li>
+<li>Would you recommend the Jumpstart Program to other library school students?</li>
+</ul>
+<p>Due to the nature of this survey and its involvement of human subjects, we sought IRB approval from our institution, which involved drafting a formal informed consent document, ensuring our data would be de-identified, and using our institutional Qualtrics account to instantiate our surveys.</p>
+</div>
+</div>
+</div>
+<div id="soliciting-participation-and-feedback" class="section level2">
+<h2>Soliciting participation and feedback</h2>
+<p>With such a small sample size given our cohort of 8 participants, we were aiming for as high a rate of participation as possible. To accomplish this, we began recruiting participants to the study early on, sending the pre-program knowledge &amp; attitudes survey out shortly after our tech &amp; accommodations survey. We followed up this initial outreach with several reminder messages and also gave participants time to complete the survey during the first session of the program. In all of our communications, we emphasized the voluntary nature of the study while noting that participation would be beneficial to us in helping to better design future iterations of the program. We left the survey open for two weeks after the completion of the program to allow for optimal participation. We were able to garner %50 participation in the pre-to-post knowledge &amp; attitudes survey, and had 7 of 8 complete the general satisfaction survey. The six month post-program follow-up video interviews are still as of yet forthcoming.</p>
+</div>
+<div id="interpreting-the-results" class="section level2">
+<h2>Interpreting the results</h2>
+<p>In interpreting our results, we were able to directly compare participant responses to questions that appeared on both the pre- and post- knowledge and attitudes surveys, such as “I am confident in my ability to learn technical skills.” and “I am likely to pursue a career in library technology.” We were looking to see if there was an overall improvement in responses from pre- to post- (participants moving from ‘somewhat disagree’ to ‘agree’, for example), or even perhaps a regression. Upon review, we found at least one degree of improvement across all of these questions for participants who completed both surveys.</p>
+<p>In terms of questions that were unique to the pre- and post- surveys, we conducted hypothesis testing to check our assumptions. We would expect, for example, that someone who answered “disagree” or “strongly disagree” to the pre-program survey question: “I am aware of my options for careers in library technology.” would answer somewhere in the range of “agree” to “strongly agree” to the post-survey question “I learned a lot about technical careers in libraries.” if they also moved to “agree” or “strongly agree” on the former. If not, we would have to reckon with and extrapolate an explanation for such a discrepancy.</p>
+<p>The general satisfaction survey served more for our own edification in how to improve program delivery in the future, with a notable data point being that all 7 participants who completed the post-program satisfaction survey strongly agreed with this statement: “I am likely to recommend the Jumpstart Program to other LIS/IS students.”</p>
+<p>Having not yet reached the six-month follow up interviews, it is our hope that these will prove helpful in determining any potential long-lasting impacts the Jumpstart Program had on participants.</p>
+<p>A more complete analysis is forthcoming as part of our contributed paper to the ACRL 2021 conference.</p>
+<blockquote>
+<p>Tip: Spend concentrated time early in the planning process determining what metrics of success you will measure your program by and design your data collection tools accordingly, seeking IRB approval if needed.</p>
+</blockquote>
+</div>
+
+<br>
+<br>
+<br>
+<p> 
+From NC State University Libraries. 
+<a href="https://www.lib.ncsu.edu/jumpstart">https://www.lib.ncsu.edu/jumpstart</a> 
+</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

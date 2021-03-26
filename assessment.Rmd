@@ -1,0 +1,123 @@
+---
+title: 'Step 7: Assessment'
+---
+
+Our assessment measures included a pre-program knowledge & attitudes survey, a post-program knowledge & attitudes survey, a post-program general feedback survey and a six month follow up video interview. 
+
+## Determining goals and desired outcomes ##
+Before designing our surveys, we spent some time reviewing our program’s guiding principles and objectives. What did we want participants to walk away with? What learning outcomes were we aiming to achieve? 
+
+### Building appropriate tools ###
+Based on this review, we generated the following survey questions: 
+
+#### Pre-Program Knowledge & Attitudes Survey ####
+- Please list the job titles you associate with librarianship:
+- Please list the job titles you associate with technical librarianship:
+
+<i> The following questions were presented with the option to answer on a 5 point Likert scale ranging from “strongly disagree” to “strongly agree”: </i>
+
+  - I know what technical skills I need to learn to be successful as a librarian. 
+  - I’m not sure how to learn the technical skills that I need. 
+  - I am confident in my ability to learn technical skills.
+  - I feel intimidated at the thought of learning technical skills. 
+  - I am aware of my options for careers in library technology.
+  - I am likely to pursue a career in library technology
+  - I think of myself as the type of person who would do well in library technology. 
+  - I have people in my personal and/or professional life who have encouraged me to build a technical skill set. 
+  - I know someone working in library technology who I would feel comfortable turning to when I have questions. 
+  - I’m not sure how to best present myself in a resume, cover letter, or interview for technical positions in libraries. 
+
+- Please list/describe any coursework, projects, and jobs/internships you have completed that are relevant to developing technical skills in librarianship: 
+
+#### Post-Program Knowledge & Attitudes Survey ####
+- Please list the job titles you associate with librarianship:
+- Please list the job titles you associate with technical librarianship:
+- How much of the material covered in the Jumpstart Program was new for you? <i>(response options = “none of it was new”, “some of it was new”, “about half of it was new”, “most of it was new”, “all of it was new”).</i> 
+
+<i> The following questions were presented with the option to answer on a 5 point Likert scale ranging from “strongly disagree” to “strongly agree”: </i>
+    
+- I learned a lot about technical careers in libraries. 
+- I learned a lot about the technical skills I will need to be successful as a librarian. 
+- The Jumpstart Program felt like a valuable use of my time. 
+- I plan to keep in contact with my mentor and others that I met while in the program. 
+- I know what technical skills I need to learn to be successful as a librarian. 
+- I’m not sure how to learn the technical skills that I need. 
+- I am confident in my ability to learn technical skills.
+- I feel intimidated at the thought of learning technical skills. 
+- I am aware of my options for careers in library technology.
+- I am likely to pursue a career in library technology
+- I think of myself as the type of person who would do well in library technology. 
+- I have people in my personal and/or professional life who have encouraged me to build a technical skill set. 
+- I know someone working in library technology who I would feel comfortable turning to when I have questions. 
+- I’m not sure how to best present myself in a resume, cover letter, or interview for technical positions in libraries. 
+
+- Please list/describe any coursework, projects, and jobs/internships you plan to take that are relevant to developing technical skills in librarianship: 
+
+#### Post-Program Satisfaction Survey ####
+- Overall, how satisfied were you with your experience with the Jumpstart Program? <i> (response options = 5 point Likert scale ranging from “very dissatisfied” to “very satisfied”). </i>
+
+Please rate the following components of the program:
+<i> (response options = 5 point Likert scale ranging from “very unsatisfactory” to “very satisfactory”).</i>
+
+- Technical skills workshops (Intro to Git & GitHub, Intro to Python with Twitter Bots, Intro to Web Development, Intro to Machine Learning)
+- Panel presentations (career path panel, day-in-the-life panel, tech showcase, Q&A with Libraries admin)
+- "Applying to Your First Library Tech Job" session
+- One-on-one mentorship 
+- Program content overall:
+
+- Do you have any additional comments concerning the content of the Jumpstart Program?
+
+Please rate the following logistical components of the program: 
+<i> (response options = 5 point Likert scale ranging from “very unsatisfactory” to “very satisfactory”).</i>
+
+- Communication leading up to the event
+- Live captioning services
+- Attention paid to accessibility concerns
+- Handling of troubleshooting during technical workshops 
+- The flow and schedule of events 
+- The application process
+
+- Do you have any additional comments concerning the logistics of the Jumpstart Program?
+
+- What was your favorite part of the Jumpstart program experience?
+- What was your least favorite part of the Jumpstart program experience? 
+- Overall, did the Jumpstart program meet your expectations? Explain.
+- Do you have any suggestions for improvement to the Jumpstart program?
+- I am likely to recommend the Jumpstart Program to other library school students. <i> (response options = 5 point Likert scale ranging from “very unlikely” to “very likely”).</i>
+
+#### Post-Program Six Month Follow-up Video Interview ####
+- Did your participation in the Jumpstart Program help inform your planning for the rest of your graduate school experience?
+    + Did it influence the types of courses, jobs, and internships you took up?
+      *What technical coursework have you taken/do you plan to take?
+      *What sorts of part time jobs and/or internships have you had/do you plan to have?
+- Have your short and/or long-term career goals shifted since you started your graduate school program to now? If yes, how so? 
+    + What role, if any, do you think the Jumpstart program had in any shifts?
+- What kinds of jobs do you plan to apply to after you graduate?
+    + What sorts of job titles are you looking at?
+    + Are you interested in applying to the NC State University Libraries Fellowship Program?
+- How have you progressed in your acquisition of technical skills?
+    + What skills have/are you trying to develop?
+    + What is going well?
+    + Are you experiencing roadblocks? What are they?
+    + What resources are you using?
+- Have you kept in contact with other attendees?
+- Have you kept in contact with your mentor?
+- Would you recommend the Jumpstart Program to other library school students?
+
+Due to the nature of this survey and its involvement of human subjects, we sought IRB approval from our institution, which involved drafting a formal informed consent document, ensuring our data would be de-identified, and using our institutional Qualtrics account to instantiate our surveys.
+
+## Soliciting participation and feedback ##
+With such a small sample size given our cohort of 8 participants, we were aiming for as high a rate of participation as possible. To accomplish this, we began recruiting participants to the study early on, sending the pre-program knowledge & attitudes survey out shortly after our tech & accommodations survey. We followed up this initial outreach with several reminder messages and also gave participants time to complete the survey during the first session of the program. In all of our communications, we emphasized the voluntary nature of the study while noting that participation would be beneficial to us in helping to better design future iterations of the program. We left the survey open for two weeks after the completion of the program to allow for optimal participation. We were able to garner %50 participation in the pre-to-post knowledge & attitudes survey, and had 7 of 8 complete the general satisfaction survey. The six month post-program follow-up video interviews are still as of yet forthcoming. 
+
+## Interpreting the results ##
+In interpreting our results, we were able to directly compare participant responses to questions that appeared on both the pre- and post- knowledge and attitudes surveys, such as “I am confident in my ability to learn technical skills.” and “I am likely to pursue a career in library technology.” We were looking to see if there was an overall improvement in responses from pre- to post- (participants moving from ‘somewhat disagree’ to ‘agree’, for example), or even perhaps a regression. Upon review, we found at least one degree of improvement across all of these questions for participants who completed both surveys. 
+
+In terms of questions that were unique to the pre- and post- surveys, we conducted hypothesis testing to check our assumptions. We would expect, for example, that someone who answered “disagree” or “strongly disagree” to the pre-program survey question: “I am aware of my options for careers in library technology.” would answer somewhere in the range of “agree” to “strongly agree” to the post-survey question “I learned a lot about technical careers in libraries.” if they also moved to “agree” or “strongly agree” on the former. If not, we would have to reckon with and extrapolate an explanation for such a discrepancy. 
+
+The general satisfaction survey served more for our own edification in how to improve program delivery in the future, with a notable data point being that all 7 participants who completed the post-program satisfaction survey strongly agreed with this statement: “I am likely to recommend the Jumpstart Program to other LIS/IS students.”
+
+Having not yet reached the six-month follow up interviews, it is our hope that these will prove helpful in determining any potential long-lasting impacts the Jumpstart Program had on participants. 
+
+A more complete analysis is forthcoming as part of our contributed paper to the ACRL 2021 conference. 
+
+> Tip: Spend concentrated time early in the planning process determining what metrics of success you will measure your program by and design your data collection tools accordingly, seeking IRB approval if needed.   

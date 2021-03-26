@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Step 3: Application Process</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fas fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="about.html">About this Guide</a>
+</li>
+<li>
+  <a href="timeline.html">
+    <span class="fas fa-gear"></span>
+     
+    Process Overview
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fas fa-gear"></span>
+     
+    Step-by-Step
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="environmental_scan.html">Step 1: Environmental Scan</a>
+    </li>
+    <li>
+      <a href="planning_committee_vision.html">Step 2: Forming a Planning Committee &amp; Honing a Vision</a>
+    </li>
+    <li>
+      <a href="application.html">Step 3: Application Process</a>
+    </li>
+    <li>
+      <a href="schedule_content.html">Step 4: Developing the program schedule and content</a>
+    </li>
+    <li>
+      <a href="leadup.html">Step 5: Program Lead-up</a>
+    </li>
+    <li>
+      <a href="delivery.html">Step 6: Program Delivery</a>
+    </li>
+    <li>
+      <a href="assessment.html">Step 7: Assessment</a>
+    </li>
+    <li>
+      <a href="resources.html">Further Reading/Suggested Resources</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Step 3: Application Process</h1>
+
+</div>
+
+
+<p>The application process is a component that we put a lot of time and thought into as we wanted to be very intentional in creating a process that was inclusive. Our general goal was to recruit a diverse cohort of 6-10 applicants from library schools across the country who are less than halfway through their program.</p>
+<ul>
+<li>It was important for us to recruit a diverse cohort that represented a broad variety of backgrounds and experiences. Librarianship as a profession is made up of mostly white women. Tech positions also tend to be occupied by mostly white folks while also skewing more male. We wanted to acknowledge this specific piece of LIS pipeline so that we could make sure that our application process was welcoming on the basis of gender and race and also in terms of other demographics, such as ability, academic background, and geography.</li>
+<li>In terms of the cohort size, we sought 6-10 applicants because we felt a smaller number of participants would allow us to provide more individualized attention. When we were originally planning to host this as an in-person event, a small cohort size also meant manageable costs as well.<br />
+</li>
+<li>We sought students who were less than halfway through their program because we reasoned that the earlier we were to reach students in their academic trajectories, the better chance they would have at applying what they learned with us to the rest of their graduate school and early career planning.</li>
+</ul>
+<div id="creating-an-inclusive-recruitment-and-application-process" class="section level2">
+<h2>Creating an inclusive recruitment and application process</h2>
+<p>Our strategy for creating an inclusive application process involved: (1) presenting clear messaging in terms of our values as an organization and the qualities sought in applicants, and (2) the removal of common barriers encountered in such processes.</p>
+<div id="clear-messaging" class="section level3">
+<h3>1. Clear messaging:</h3>
+<p>When participants arrived at our application page on the program website, the first thing that they encountered was the guiding principles and values statement for the program, which in turn directed them to our Libraries’ strategic values and our diversity &amp; Inclusion statement.</p>
+<p>Additionally, application questions pertaining to diversity were supplied with explanatory help text. When prompted for optional demographic information, for example, the following note appeared:</p>
+<blockquote>
+<p>“We’re looking for opportunities to support applicants from groups that are unrepresented in librarianship. We are taking the entire application into account; no one will be accepted/denied based solely on their response to this question.”</p>
+</blockquote>
+<p>And the prompt of “Please describe your commitment to diversity, equity, and inclusion.” was coupled with this context:</p>
+<blockquote>
+<p>“We would like to know how you would contribute to fostering a learning environment that prioritizes diversity, equity, and inclusion. This can include specific things you have done or plan to do to further your knowledge. For more information about writing a diversity commitment statement, we recommend The Effective Diversity Statement (it is aimed at faculty members, but the suggestions are generalizable).”</p>
+</blockquote>
+<p>In recognition of the fact that people from underrepresented groups are much less likely to apply for a job or program unless they feel like they meet or exceed every qualification listed, we also included this statement in an effort to make it clear that we were not looking for any particular set of experiences or skills so much as enthusiasm about library technology and the potential for growth:</p>
+<blockquote>
+<p>“You don’t necessarily have to have any technical expertise to be accepted to the program! We are looking for highly motivated candidates with:</p>
+<ul>
+<li>a demonstrated interest in pursuing a career in library technology</li>
+<li>a commitment and willingness to learn technical skills</li>
+<li>a persistent and creative approach to solving problems”</li>
+</ul>
+</blockquote>
+</div>
+<div id="removing-barriers" class="section level3">
+<h3>2. Removing barriers</h3>
+<p>There are many common elements of application processes that can prove to be unnecessary burdens, particularly for programs such as this one that don’t hold the same weight as, say, a job application. Given this, we chose to forgo certain things, namely cover letters and references/letters of recommendation. Additionally, we tried to keep our short answer questions truly short, at 150 words each. When it came time to conduct our phone screenings of the finalists, we were as transparent as possible by letting participants know the details of what to expect including who would be on the call, how long it would take, and exactly what questions we would be asking.</p>
+<p>It is also worth noting that when we were still planning to host this program in person, our ability to provide an all-expenses paid experience would have helped to promote inclusivity as well by making this experience more accessible to low-income individuals.</p>
+<p><br></p>
+<p>Taken together, we believe that these strategies were helpful in recruiting the diverse cohort of participants we ended up working with. Clearly communicating our values as an organization and a program as well as what we expected of applicants in addition to removing barriers typically built-in to the process hopefully encouraged folks who may not have applied to a program like this otherwise to do so. Moving forward, however, we acknowledge that there are additional steps we could take to further our efforts in this area and welcome constructive feedback.</p>
+</div>
+</div>
+<div id="marketing-and-outreach" class="section level2">
+<h2>Marketing and outreach</h2>
+<p>In devising our marketing and outreach approach, we relied on…</p>
+<ul>
+<li><strong>Email blasts</strong> We emailed information about this opportunity to LIS diversity, equity, and inclusion programs and group listservs, LIS program coordinators, and our direct contacts at various institutions where appropriate. We sent an initial outreach email when the applications were officially open and a reminder email as we approached the deadline.</li>
+<li><strong>In-person visits.</strong> We were able to give in-person recruitment presentations about this program at several of the LIS programs in our area. Additionally, we were able to ask our colleagues to tack a brief spiel about this on to other recruitment efforts, such as our ongoing recruitment for the NC State University Libraries Fellows Program.</li>
+<li><strong>Informational webinars.</strong> To get at a broader audience than what we were able to reach locally, we also conducted live webinars that were open to the public. We promoted these webinars on our website, the Libraries social media, as well as in the email communications listed above.</li>
+</ul>
+<p>We were able to establish a very broad reach with this approach as evidenced by our final applicant pool of 49 individuals representing almost a dozen schools across the U.S. and Canada.</p>
+</div>
+<div id="application-package" class="section level2">
+<h2>Application package</h2>
+<p>A complete application package consisted of a resumé and the <a href="https://docs.google.com/document/d/1GJ6n6H9sfSY4GrNVDuLmQ7ov7-RUXEd5abRMA5P2goI/edit?usp=sharing">online application form</a>.</p>
+<p>The online application form confirmed eligibility, collected demographic information, and solicited responses to the following short answer questions:</p>
+<ul>
+<li>Why are you interested in the Jumpstart program? What do you hope to gain from this experience? (150 words max)
+<ul>
+<li>Help text: <i>We’d love to hear about any experiences that you’ve had or any projects you’ve worked on that might help us to understand what inspired you to apply to this program.</i></li>
+</ul></li>
+<li>Tell us about a time when you solved a challenging problem. (150 words max)
+<ul>
+<li>Help text: <i>Your example does not have to be library or technology related!</i></li>
+</ul></li>
+<li>What are your professional goals? What would your ideal job entail? (150 words max)</li>
+<li>Please describe your commitment to diversity, equity, and inclusion. (150 words max)
+<ul>
+<li>Help text: <i>We would like to know how you would contribute to fostering a learning environment that prioritizes diversity, equity, and inclusion. This can include specific things you have done or plan to do to further your knowledge. For more information about writing a diversity commitment statement, we recommend <a href="https://www.insidehighered.com/advice/2016/06/10/how-write-effective-diversity-statement-essay">The Effective Diversity Statement</a> (it is aimed at faculty members, but the suggestions are generalizable).”</i></li>
+</ul></li>
+</ul>
+</div>
+<div id="evaluation-and-selection" class="section level2">
+<h2>Evaluation and selection</h2>
+<p>In evaluating applications, the following criteria determined the elements we were looking for in participants’ responses to the short answer questions.</p>
+<ul>
+<li>For the first question, <strong>“Why are you interested in the Jumpstart Program? What do you hope to gain from this experience?”</strong>, we wanted to see an expressed interest in and enthusiasm for library technology and building up their technical skillset. We were also screening answers to this question to ensure that we were recruiting participants who were at the appropriate skill level for the program, which ranged from absolute beginner to somewhat knowledgeable or experienced in technology concepts.</li>
+<li>With, <strong>“Tell us about a time when you solved a challenging problem.”</strong>, we were looking for examples of critical thinking, creativity, curiosity, and teamwork from any setting – not even necessarily related to library technology.</li>
+<li>In asking, <strong>“What are your professional goals? What would your ideal job entail?”</strong>, we wanted to see that the Jumpstart Program aligned with their future career goals, and that those career goals were based in library technology. While someone interested in becoming a library administrator, or a children’s librarian, for example, might indeed benefit from increasing their technical skillset, they were not the primary audience we had in mind for the first iteration of the program.</li>
+<li>To evaluate folks’ responses to, <strong>“Please tell us about your commitment to diversity, equity, and inclusion.”</strong>, we started from a point of acknowledging that everyone is at a different point in their journey with these efforts, and so people were not necessarily ruled out or brought in based on their response to this question alone. We were looking for a thoughtful, sincere response that indicated some level of engagement with DEI work.</li>
+</ul>
+<p>As a planning committee, we each individually rated participants on a scale of 1 to 3 (roughly, ‘yes’, ‘maybe’, and ‘no’) and then met as a whole group to come to a consensus on our collective pool of yes candidates, making an effort to consider the diversity of the cohort as a whole in making our decisions. After we had our list of finalists, we scheduled short Zoom screening calls with each of them to narrow our pool to our selected cohort. The purpose of the Zoom calls was to corroborate what participants had put forth in their applications as well as to get to know them better in terms of their professional interests and goals so that we could eventually prepare them with an appropriate mentor. The questions we asked in the zoom screening calls included:</p>
+<ul>
+<li>Tell us more about what brought you to your graduate program. What sparked your interest in library or information science?</li>
+<li>How did you find out about the program? What do you hope to gain from the experience? (We know this was part of the application material, but we wanted to give you the opportunity to tell us more).</li>
+<li>What’s a technology that you find exciting right now? (It doesn’t have to be related to libraries!)</li>
+<li>What are your professional goals? In what ways do they involve library technology?</li>
+<li>Do you have any questions for us?</li>
+</ul>
+<p>All in all, the application process took 6 months. We opened the applications up in late November, kept them open through March, and evaluated them and conducted the phone screenings through April, with final decisions going out in early May. We did our best to keep applicants regularly updated on our progress along the way.</p>
+<blockquote>
+<p>Tip: In order to recruit a diverse cohort of applicants it is important to clearly define your values and to communicate those values in your marketing materials while also actively working to remove barriers to the application process itself. Additionally, it’s important to stay open to feedback and to be constantly vigilant with regards to new best practices in acknowledgement of the fact that there is always more that can be done in improving inclusivity and equity in application and selection processes.</p>
+</blockquote>
+</div>
+
+<br>
+<br>
+<br>
+<p> 
+From NC State University Libraries. 
+<a href="https://www.lib.ncsu.edu/jumpstart">https://www.lib.ncsu.edu/jumpstart</a> 
+</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+---
+title: "Step 1: Environmental Scan"
+---
+
+Beginning with an environmental scan was instrumental in helping to give direction to our original vision. The environmental scan consisted of an informal literature review, a series of semi-structured interviews with our colleagues who hold technology-related positions, and conversations with current library school students and library school administrators. The goal was to explore the problem space and identify the ways in which a program like Jumpstart might be able to contribute effectively.
+
+- Informal literature review
+  + We knew that there is a healthy amount of scholarship out there already about library school curricula and what they do or don’t, should or shouldn’t cover, so early on we began perusing this body of literature to get a better sense of the landscape. (See our ‘further reading’ page for a bibliography.) 
+- Semi-structured interviews with library tech workers
+  + In speaking to our Libraries colleagues in technical positions, we were curious to know what skills they used most in their day to day work and how they built those skills. Had they had the opportunity to build these skills in school or on the job? Or were they self-taught? What would they have found most helpful to be included in a program like this when they were still in school? [See the full list of questions we asked here>>](https://docs.google.com/document/d/1NrxnlUaA4fASYaHpN1AoJSGMtQjCB_V5kMa_7NERwFE/edit?usp=sharing).  
+- Conversations with current library school students and administrators
+  + Of students we wanted to know -- What are your career interests? What opportunities do you have to build the skills you think you’ll need? What do you think is missing from your program? What do you think you might need more of to be successful?
+  + Of library school administrators we had high level, logistical questions -- Do you think a program like this would be valuable to your students? What would you like to see included? How could we best market this program students? What would be the best time to hold a program like this be according to your academic calendar? 
+
+Taken together, these components led to a few key insights that helped to inform the rest of our program planning: 
+
+- We learned that library schools really vary in terms of what their curricula cover. Some students have ample opportunity to take technical courses in coding or data wrangling, while others have none of these types of classes available to them. 
+- Those that currently work in technical roles in our Libraries generally reported having built their skillset outside of their formal library school curriculums, either through internships or part-time jobs. 
+- Both library school students and administrators indicated that students do definitely want more opportunities baked into their graduate school experience to build their tech skills. Students need a roadmap to help guide them along the process of figuring out what sorts of technical career options are available in libraries and how to get there. 
+
+> Tip: Don’t skip the background research! Take the opportunity to learn what your audience's needs are by speaking directly to them and those adjacent to the problem space.
+
+

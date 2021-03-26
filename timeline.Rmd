@@ -1,0 +1,11 @@
+---
+title: "Process Overview"
+---
+
+## Our Timeline ##
+
+The process for planning the first iteration of the Jumpstart Program spanned the entirety of a year. Stretching the planning process out over this amount of time meant that we never felt rushed and that we had the flexibility to adapt to unforeseen circumstances (in this case: COVID-19). Planning for future iterations of this program would likely be condensed into a much shorter time frame given the foundations we laid in the first. 
+
+![](./images/timeline.png)
+
+> Tip: Start planning early to accommodate unforeseen roadblocks, especially the first time you host a program like this.
