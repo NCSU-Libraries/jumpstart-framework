@@ -28,3 +28,5 @@ One thing that we considered with the breakout room approach was that if several
 The approach we took to technical troubleshooting worked out well for the most part -- we were able to solve issues fairly quickly and the workshops generally flowed smoothly. It did take time for everyone to become comfortable with the transition from main room to breakout room, and when to make that transition. After the first workshop, participants became used to going into the breakout room, sharing their screens, and working through issues. Throughout each workshop, we constantly solicited and incorporated participant feedback to improve the process. In the future, we will try to more specifically document expectations around the process to ensure everyone is on the same page.
 
 > Tip: Consider the limitations of technical troubleshooting in a remote environment and create a plan to share with participants, workshop leaders and helpers to establish a process for troubleshooting.
+
+[Next >> Step 7: Assessment](https://cullerth.github.io/jumpstart_website/assessment.html)

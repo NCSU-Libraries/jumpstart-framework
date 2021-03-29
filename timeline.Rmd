@@ -9,3 +9,5 @@ The process for planning the first iteration of the Jumpstart Program spanned th
 ![](./images/timeline.png)
 
 > Tip: Start planning early to accommodate unforeseen roadblocks, especially the first time you host a program like this.
+
+[Next >> Step 1: Environmental Scan](https://cullerth.github.io/jumpstart_website/environmental_scan.html)

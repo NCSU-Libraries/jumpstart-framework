@@ -48,3 +48,5 @@ A few weeks before the program, we reached out to participants with [instruction
 This approach ended up working out well -- most of the issues that we ran into during the hands-on workshops were not related to the environment set up of participants. It was also a good chance to begin to develop a rapport with participants and help them get comfortable with sharing their screens and troubleshooting issues together. We were able to offer participants one-on-one support because our cohort size was fairly small. If we had a larger cohort size, we could have considered having small group support sessions instead of one-on-one.
 
 > Tip: Create a plan to make sure participants are as prepared as they can be in advance of any technical workshops you plan to offer so that they can focus on the content of the workshop rather than on issues with their computing environments.
+
+[Next >> Step 6: Program Delivery](https://cullerth.github.io/jumpstart_website/delivery.html)

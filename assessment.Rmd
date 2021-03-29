@@ -121,3 +121,5 @@ Having not yet reached the six-month follow up interviews, it is our hope that t
 A more complete analysis is forthcoming as part of our contributed paper to the ACRL 2021 conference. 
 
 > Tip: Spend concentrated time early in the planning process determining what metrics of success you will measure your program by and design your data collection tools accordingly, seeking IRB approval if needed.   
+
+[Next >> Further Reading/Suggested Resources](https://cullerth.github.io/jumpstart_website/resources.html)
