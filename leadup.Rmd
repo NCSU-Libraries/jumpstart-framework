@@ -49,4 +49,4 @@ This approach ended up working out well -- most of the issues that we ran into d
 
 > Tip: Create a plan to make sure participants are as prepared as they can be in advance of any technical workshops you plan to offer so that they can focus on the content of the workshop rather than on issues with their computing environments.
 
-[Next >> Step 6: Program Delivery](https://cullerth.github.io/jumpstart_website/delivery.html)
+[Next >> Step 6: Program Delivery](https://ncsu-libraries.github.io/jumpstart-framework/delivery.html)

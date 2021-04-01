@@ -58,5 +58,5 @@ While our organization was very supportive of the program, and had the resources
 
 > Tip: Consider what kind of budget you need, and where the funding might come from. Look at partnering with other organizations or pursuing grant funding if needed.
 
-[Next >> Step 3: Application Process](https://cullerth.github.io/jumpstart_website/application.html)
+[Next >> Step 3: Application Process](https://ncsu-libraries.github.io/jumpstart-framework/application.html)
 

@@ -20,6 +20,6 @@ Taken together, these components led to a few key insights that helped to inform
 
 > Tip: Don’t skip the background research! Take the opportunity to learn what your audience's needs are by speaking directly to them and those adjacent to the problem space.
 
-[Next >> Step 2: Forming a Planning Committee & Honing a Vision](https://cullerth.github.io/jumpstart_website/planning_committee_vision.html)
+[Next >> Step 2: Forming a Planning Committee & Honing a Vision](https://ncsu-libraries.github.io/jumpstart-framework/planning_committee_vision.html)
 
 
