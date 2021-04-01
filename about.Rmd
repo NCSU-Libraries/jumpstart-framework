@@ -13,4 +13,12 @@ Additionally, we anticipate that the framework presented in this document could 
 
 > <i>Tip: Look for these highlighted tips at the end of each section for the quick summary version.</i> 
 
+<br>
+
+<center>
+![](./images/jumpstart_stock_1.jpg)
+</center>
+
+<br>
+
 [Next >> Process Overview](https://cullerth.github.io/jumpstart_website/timeline.html)

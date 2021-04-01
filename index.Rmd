@@ -20,7 +20,14 @@ Response to the first iteration of the program was positive overall. As one part
 
 Read more about what participants had to say in this profile piece: [Library Technology Career Jumpstart Program prepares students to meet the unknown needs of tech-infused futures->](https://www.lib.ncsu.edu/stories/library-technology-career-jumpstart-program-prepares-students-meet-unknown-needs-tech)
 
+<br>
 
+<center>
+![](./images/zoomjumpstart.png)
+</center>
+
+
+<br>
 
 [Next >> About this Guide](https://cullerth.github.io/jumpstart_website/about.html)
 

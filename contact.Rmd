@@ -4,7 +4,7 @@ title: "Contact Us"
 
 To learn more about the Jumpstart Program, please visit [https://www.lib.ncsu.edu/jumpstart ](https://www.lib.ncsu.edu/jumpstart).
 
-
+<br>
 
 You can also feel free to reach out directly to Tori or Kevin: 
 
@@ -12,3 +12,8 @@ You can also feel free to reach out directly to Tori or Kevin:
 
 - [Kevin Beswick](https://www.lib.ncsu.edu/staff/kdbeswic) | kdbeswic@ncsu.edu | Twitter = @kdbeswick
 
+<br> 
+
+<center>
+![](./images/jumpstart_stock_2.jpg)   
+</center>
