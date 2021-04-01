@@ -28,12 +28,12 @@ navbar:
           href: assessment.html
         - text: "Further Reading/Suggested Resources"
           href: resources.html
-    - text: "Contact us"
+    - text: "Contact Us"
       icon: fa-gear
       href: contact.html
 output:
   html_document:
-    theme: cosmo
+    theme: simplex
     highlight: textmate
     include:
       after_body: footer.html
