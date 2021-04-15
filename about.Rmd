@@ -21,4 +21,4 @@ Additionally, we anticipate that the framework presented in this document could 
 
 <br>
 
-[Next >> Process Overview](https://cullerth.github.io/jumpstart_website/timeline.html)
+[Next >> Process Overview](https://ncsu-libraries.github.io/jumpstart-framework/timeline.html)
