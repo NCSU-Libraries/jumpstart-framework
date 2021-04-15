@@ -29,6 +29,6 @@ Read more about what participants had to say in this profile piece: [Library Tec
 
 <br>
 
-[Next >> About this Guide](https://cullerth.github.io/jumpstart_website/about.html)
+[Next >> About this Guide](https://ncsu-libraries.github.io/jumpstart-framework//about.html)
 
 
