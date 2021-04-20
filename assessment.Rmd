@@ -123,3 +123,7 @@ A more complete analysis is forthcoming as part of our contributed paper to the 
 > Tip: Spend concentrated time early in the planning process determining what metrics of success you will measure your program by and design your data collection tools accordingly, seeking IRB approval if needed.   
 
 [Next >> Further Reading/Suggested Resources](https://ncsu-libraries.github.io/jumpstart-framework/resources.html)
+
+<br>
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`

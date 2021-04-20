@@ -17,3 +17,7 @@ You can also feel free to reach out directly to Tori or Kevin:
 <center>
 ![](./images/jumpstart_stock_2.jpg)   
 </center>
+
+<br>
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`

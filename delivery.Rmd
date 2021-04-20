@@ -30,3 +30,7 @@ The approach we took to technical troubleshooting worked out well for the most p
 > Tip: Consider the limitations of technical troubleshooting in a remote environment and create a plan to share with participants, workshop leaders and helpers to establish a process for troubleshooting.
 
 [Next >> Step 7: Assessment](https://ncsu-libraries.github.io/jumpstart-framework/assessment.html)
+
+<br>
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`

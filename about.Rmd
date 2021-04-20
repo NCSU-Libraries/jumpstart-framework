@@ -22,3 +22,7 @@ Additionally, we anticipate that the framework presented in this document could 
 <br>
 
 [Next >> Process Overview](https://ncsu-libraries.github.io/jumpstart-framework/timeline.html)
+
+<br>
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`

@@ -22,4 +22,6 @@ Taken together, these components led to a few key insights that helped to inform
 
 [Next >> Step 2: Forming a Planning Committee & Honing a Vision](https://ncsu-libraries.github.io/jumpstart-framework/planning_committee_vision.html)
 
+<br>
 
+Last updated on `r format(Sys.time(), '%B %d, %Y')`

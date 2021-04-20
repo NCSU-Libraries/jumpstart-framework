@@ -11,3 +11,7 @@ The process for planning the first iteration of the Jumpstart Program spanned th
 > Tip: Start planning early to accommodate unforeseen roadblocks, especially the first time you host a program like this.
 
 [Next >> Step 1: Environmental Scan](https://ncsu-libraries.github.io/jumpstart-framework/environmental_scan.html)
+
+<br>
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`

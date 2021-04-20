@@ -31,4 +31,8 @@ Read more about what participants had to say in this profile piece: [Library Tec
 
 [Next >> About this Guide](https://ncsu-libraries.github.io/jumpstart-framework/about.html)
 
+<br>
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`
+
 

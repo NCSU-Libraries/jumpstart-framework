@@ -60,3 +60,6 @@ While our organization was very supportive of the program, and had the resources
 
 [Next >> Step 3: Application Process](https://ncsu-libraries.github.io/jumpstart-framework/application.html)
 
+<br>
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`

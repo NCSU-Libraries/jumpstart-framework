@@ -46,3 +46,7 @@ Wusteman, Judith. "Introducing web components into the LIS graduate curriculum."
 Yelton, Andromeda. Coding for librarians: learning by example. American Library Association, 2015.
 
 “Why Would a Librarian Learn to Code?” 2016. Code and the Librarian (blog). January 24, 2016. https://codeandthelibrarian.wordpress.com/2016/01/24/why-would-a-librarian-learn-to-code/ 
+
+<br>
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`
