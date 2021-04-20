@@ -37,5 +37,6 @@ output:
     highlight: textmate
     include:
       after_body: footer.html
+      date: "Last updated on `r format(Sys.time(), '%d %B, %Y')`"
     css: styles.css
 output_dir: "."
