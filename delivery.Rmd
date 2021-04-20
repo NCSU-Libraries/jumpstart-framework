@@ -33,4 +33,4 @@ The approach we took to technical troubleshooting worked out well for the most p
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`

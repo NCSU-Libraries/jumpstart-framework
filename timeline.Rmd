@@ -14,4 +14,4 @@ The process for planning the first iteration of the Jumpstart Program spanned th
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`

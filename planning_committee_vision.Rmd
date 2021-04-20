@@ -62,4 +62,4 @@ While our organization was very supportive of the program, and had the resources
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`

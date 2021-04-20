@@ -49,4 +49,4 @@ Yelton, Andromeda. Coding for librarians: learning by example. American Library 
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`

@@ -90,4 +90,4 @@ All in all, the application process took 6 months. We opened the applications up
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`

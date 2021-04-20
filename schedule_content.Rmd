@@ -67,4 +67,4 @@ There were many challenges we had to work through in developing a cohesive progr
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`

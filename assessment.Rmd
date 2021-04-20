@@ -126,4 +126,4 @@ A more complete analysis is forthcoming as part of our contributed paper to the 
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`

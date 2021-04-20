@@ -24,4 +24,4 @@ Taken together, these components led to a few key insights that helped to inform
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`

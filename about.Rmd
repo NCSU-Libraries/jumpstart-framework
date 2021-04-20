@@ -25,4 +25,4 @@ Additionally, we anticipate that the framework presented in this document could 
 
 <br>
 
-Last updated on `r format(Sys.time(), '%B %d, %Y')`
+Last updated on `r format(Sys.time(), '%B %d, %Y.')`
