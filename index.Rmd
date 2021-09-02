@@ -4,7 +4,7 @@ title: "Planning a Jumpstart Program"
 
 ## Introduction ## 
 
-The [Library Technology Career Jumpstart Program ](https://www.lib.ncsu.edu/jumpstart) is a new initiative from NC State University Libraries held for the first time virtually August 3-7, 2020. The program is a free, immersive, week-long experience that helps to position first-year library school students for a career in library technology upon graduation.
+The [Library Technology Career Jumpstart Program ](https://www.lib.ncsu.edu/jumpstart) is a new initiative from NC State University Libraries that has been held twice now in early August of 2020 and 2021. The program is a free, immersive, week-long experience that helps to position first-year library school students for a career in library technology upon graduation.
 
 Jumpstart participants can expect to...
 
@@ -14,11 +14,17 @@ Jumpstart participants can expect to...
 - learn how to apply and interview for technical positions in libraries
 - develop an ongoing relationship with a mentor
 
-Response to the first iteration of the program was positive overall. As one participant noted: 
+Response to the first iteration of the program was positive overall. As one 2020 participant noted: 
 
 > “The workshops provided enough direction for me to identify possible interests in lib tech and explore things further on my own. I also really value the mentorship and getting to know the librarians at State. I plan on staying connected with them as I build toward a career in lib tech. There is a huge need for exactly what Jumpstart is offering so I would definitely recommend this program to other LIS students and am really excited to see the program hopefully continue in future years and expand. ”
 
+Response to the 2021 offering of the program was also encouraging, with one participant stating: 
+
+> "The Jumpstart Program exceeded my expectations. I expected to learn something about GitHub, Python, HTML, etc. But I also gained a lot of confidence through this program from the hands-on learning and working through problems with troubleshooters. Hearing from professionals in the field and how they got to where they are today gave me insight into how I can gain experience and learn the skills I need to start a career in this line of librarianship."
+
 Read more about what participants had to say in this profile piece: [Library Technology Career Jumpstart Program prepares students to meet the unknown needs of tech-infused futures->](https://www.lib.ncsu.edu/stories/library-technology-career-jumpstart-program-prepares-students-meet-unknown-needs-tech)
+
+And you can also [view our program alumni here.](https://www.lib.ncsu.edu/jumpstart/alumni)
 
 <br>
 
