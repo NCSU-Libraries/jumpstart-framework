@@ -14,8 +14,8 @@ Beginning with an environmental scan was instrumental in helping to give directi
 
 Taken together, these components led to a few key insights that helped to inform the rest of our program planning: 
 
-- We learned that library schools really vary in terms of what their curricula cover. Some students have ample opportunity to take technical courses in coding or data wrangling, while others have none of these types of classes available to them. 
-- Those that currently work in technical roles in our Libraries generally reported having built their skillset outside of their formal library school curriculums, either through internships or part-time jobs. 
+- We learned that library schools really vary in terms of what their curricula cover. Some students have ample opportunity to take technical courses in coding or data wrangling, while others have next to none of these types of classes available to them. 
+- Those that currently work in technical roles in our Libraries generally reported having built their skillset outside of their formal library school curricula, either through internships or part-time jobs. 
 - Both library school students and administrators indicated that students do definitely want more opportunities baked into their graduate school experience to build their tech skills. Students need a roadmap to help guide them along the process of figuring out what sorts of technical career options are available in libraries and how to get there. 
 
 > Tip: Don’t skip the background research! Take the opportunity to learn what your audience's needs are by speaking directly to them and those adjacent to the problem space.
