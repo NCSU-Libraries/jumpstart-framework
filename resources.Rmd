@@ -1,6 +1,16 @@
 ---
 title: "Further Reading/Suggested Resources"
 ---
+## Select Presentations: ##
+
+Ascending to New Heights: A Jumpstart Program to Prepare Students for Careers in Library Technology. Association for College & Research Libraries. ([Presentation](https://drive.google.com/file/d/1rySHDI58qjQI1X7veDcVsrkC50e6G33D/view?usp=sharing) & [Contributed Paper](https://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/AscendingNewHeights.pdf)). 04/16/2021. Virtual. 
+
+The Library Technology Career Jumpstart Program.([Lightning Talk](https://drive.google.com/file/d/1hZdL1-N_XIwTk1_NgEOUUGdUvbIyknzI/view?usp=sharing)). Code4Lib. 03/25/2021. Virtual.
+
+The Library Technology Career Jumpstart Program: A Transformational Approach to Technical Skill-Building for LIS Students. ([Presentation](https://www.youtube.com/watch?v=kcKd2TgsxX4)). Center for Networked Information. 10/19/2020. Virtual. 
+
+Developing the Technical Librarians of the Future: A Career Jumpstart Program.] Digital Libraries Federation Forum. ([Presentation](https://drive.google.com/file/d/1ybI9w6k_zISmtbQrjM_lE6IunewQLlKp/view?usp=sharing)). 10/15/2019. Tampa, Florida
+
 
 ## Our informal literature review bibliography: 
 Bertot, John Carlo, Lindsay C. Sarin, and Johnna Percell. "Re-envisioning the MLS: Findings, issues, and considerations." University of Maryland, College Park, College of Information Studies, 2015. http://mls.umd.edu/wp-content/uploads/2015/08/ReEnvisioningFinalReport.pdf
