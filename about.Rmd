@@ -8,7 +8,7 @@ Even though our university does not offer a graduate degree in Library or Inform
 
 We believe that there is value in building a network of similar programs across organizations. This guide details our process for conceptualizing, planning, hosting, and assessing this program in the hopes that this information will be useful for others looking to begin similar programs at their institutions. 
 
-Additionally, we anticipate that the framework presented in this document could be adapted to create similar programs for other audiences (a Jumpstart Program for current librarians and archivists hoping to build their tech skills, for example). 
+Additionally, we anticipate that the framework presented here could be adapted to create similar programs for other audiences (a Jumpstart Program for current librarians and archivists hoping to build their tech skills, for example). 
 
 
 > <i>Tip: Look for these highlighted tips at the end of each section for the quick summary version.</i> 
