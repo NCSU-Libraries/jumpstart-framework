@@ -88,8 +88,8 @@ Please rate the following logistical components of the program:
 #### Post-Program Six Month Follow-up Video Interview ####
 - Did your participation in the Jumpstart Program help inform your planning for the rest of your graduate school experience?
     + Did it influence the types of courses, jobs, and internships you took up?
-      *What technical coursework have you taken/do you plan to take?   
-      *What sorts of part time jobs and/or internships have you had/do you plan to have?
+    + What technical coursework have you taken/do you plan to take?
+    + What sorts of part time jobs and/or internships have you had/do you plan to have?
 - Have your short and/or long-term career goals shifted since you started your graduate school program to now? If yes, how so? 
     + What role, if any, do you think the Jumpstart program had in any shifts?
 - What kinds of jobs do you plan to apply to after you graduate?
