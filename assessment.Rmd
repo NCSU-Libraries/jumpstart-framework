@@ -150,7 +150,6 @@ The questions that had the smallest positive effect sizes in the post- responses
 
 It is worth noting, however, that the smallest effect size occurred for the question “I think of myself as the type of person who would do well in library technology”, and for our 2021 cohort, there was actually a negative effect size. Knowing that all of our participants held at least one identity underrepresented in librarianship, this could be attributed to a continuing lack of representation in the makeup of library technology professionals that participants are exposed to. We work to improve this each year by increasing the diversity of those involved with administering the program, including panelists, workshop leaders, and mentors.
 
-
 Looking at the data at an individual level does indicate a handful of other “regressions” in some cases: 
 
 - One participant moved from ‘strongly agree’ to ‘agree’ on <i> “I am confident in my ability to learn the technical skills that I need to know” </i>, for example. 
@@ -171,9 +170,9 @@ We take this to mean that there may be some Dunning-Kruger effect at play – i.
 ### 6 Month Follow Up Interview Results ###
 From our 6 month follow up interviews, we gleaned that the Jumpstart Program introduced participants to career opportunities in library technology they hadn’t known about or considered before.It impacted the types of courses they took and internships they considered, and the confidence with which they approached them 
 
-There were reports of being better able to read tech job descriptions and know what employers are looking for and feeling ‘primed’ for tech courses and tech interviews. 
+There were reports of being better able to read tech job descriptions and know what employers are looking for and feeling ‘primed’ for tech courses and tech interviews. Participants also discussed taking to heart some of the strategies we had recommend for continued skill building, such as the personal projects they had taken up on the side and informal learning groups they had started with their peers
 
-One of our 2020 participants really encapsulated things nicey when they said: <i> “I don't think it's like a bootcamp...it's more like a space to introduce students to this world [of library technology] so that they make better choices about what they want to learn how they want to spend their time in grad school.” </i>
+One of our 2020 participants really encapsulated things nicely when they said: <i> “I don't think it's like a bootcamp...it's more like a space to introduce students to this world [of library technology] so that they make better choices about what they want to learn how they want to spend their time in grad school.” </i>
 
 > Tip: Spend concentrated time early in the planning process determining what metrics of success you will measure your program by and design your data collection tools accordingly, seeking IRB approval if needed.   
 
